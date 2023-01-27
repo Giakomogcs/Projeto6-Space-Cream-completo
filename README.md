@@ -14,8 +14,8 @@ A responsive application following the Mobile-First concept.
 
 ## Programming languages
 
-- ´HTML´
-- ´CSS´
+- `HTML`
+- `CSS`
 
 
 ## Appendix
