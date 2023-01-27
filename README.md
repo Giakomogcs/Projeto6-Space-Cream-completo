@@ -1,8 +1,8 @@
 # Space Cream 🍨
 
-Página da incrivel Space Cream.
+Amazing Space Cream page.
 
-Uma aplicação responsiva seguindo o conceito Mobile-First.
+A responsive application following the Mobile-First concept.
 
 
 
@@ -12,13 +12,13 @@ Uma aplicação responsiva seguindo o conceito Mobile-First.
 ![alt text](https://github.com/Giakomogcs/Projeto6-Space-Cream-completo/blob/main/images/Imagem1.png?raw=true)
 
 
-## Linguagens de programação
+## Programming languages
 
-- HTML
-- CSS
+- ´HTML´
+- ´CSS´
 
 
-## Apêndice
+## Appendix
 
-Projeto do Curso Explorer da @Rocketseat
-aula ministrada pelo @Mayk Brito
+@Rocketseat Explorer Course Project
+class taught by @Mayk Brito
